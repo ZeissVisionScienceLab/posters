@@ -1,2 +1,2 @@
 # Posters
-ARVO 2024 posters coming soon...
+Find our posters from ARVO 2024
