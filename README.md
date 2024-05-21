@@ -1,5 +1,5 @@
 # ETRA 2024
-1. [Using mobile eye tracking for gaze- and head-contigent vision simulations]()
+1. [Using mobile eye tracking for gaze- and head-contigent vision simulations](./ETRA2024/YannickSauer_UsingMobileEyeTrackingFoGazeAndHeadcontigent.pdf)
 2. [Eye tracking data set of academics making an omelette: An egg-breaking work]()
 3. []()
 # ARVO 2024
