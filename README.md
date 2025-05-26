@@ -1,5 +1,7 @@
 # Publicly available posters of the ZEISS Vision Science Lab
 For a complete list of posters and publications, please refer to the [institute's website](https://www.eye-tuebingen.de/labs/main-labs/zeiss-vision-science-lab/posters). 
+## ETRA 2025
+1. [CNN-based estimation of gaze distance in virtual reality using eye tracking and depth data](./ETRA2025/YannickSauer_ETRA25_GazeDistanceEstimation.pdf)
 ## ARVO 2025
 1. [Axial length is correlated with the photopic pupil diameter in adults](./ARVO2025/250422_ND_PosterARVO_PhotopicPupil_NoQR.pdf)
 ## ETRA 2024
